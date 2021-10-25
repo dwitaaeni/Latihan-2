@@ -22,7 +22,7 @@
 
 - Hasilnya 
 
-![ss7](Screenshot/ss7s.png)
+![ss7](Screenshot/ss7.png)
 
 - Selesai
 

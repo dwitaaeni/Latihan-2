@@ -22,7 +22,7 @@
 
 - Hasilnya 
 
-![ss7](ss/ss7.png)
+![ss7](ss/ss7s.png)
 
 - Selesai
 
